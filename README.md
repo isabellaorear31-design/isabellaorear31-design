@@ -21,6 +21,8 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
 </p>
 
+### Big Projects: 
+
 ## 🎮 Game Project: Final Girl Horror Trivia
 
 ![Game Screenshot](images/game-thumb.png)
