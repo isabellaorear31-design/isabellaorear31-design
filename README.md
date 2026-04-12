@@ -29,5 +29,19 @@ IT Major w/concentration in Cybersecurity
 ### 🛠️ Profile Tools
 [Nu HTML Validator](https://validator.w3.org/nu/?doc=https://isabellaorear31-design.github.io/isabellaorear31-design/) | [WAVE Accessibility](https://wave.webaim.org/report#/https://isabellaorear31-design.github.io/isabellaorear31-design/)
 
+---
+
+---
+
+## 📚 Project: BookNook
+![BookNook Screenshot](images/book-thumb.png)
+
+**A romance-focused book discovery and tracking app inspired by Goodreads.**
+
+* [🚀 Launch App](https://isabellaorear31-design.github.io/booknook-app/)
+* [📂 Source Code](https://github.com/isabellaorear31-design/booknook-app)
+
+---
+
 <!--
 **isabellaorear31-design/isabellaorear31-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
