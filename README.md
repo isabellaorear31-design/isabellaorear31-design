@@ -1,6 +1,6 @@
-Hi there :)
-## My name is Isabella O'Rear
-================================
+
+## Hi there :) My name is Isabella O'Rear
+
 ## I'm an IT Major w/concentration in Cybersecurity
 -----------------------------------------
 
