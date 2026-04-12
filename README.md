@@ -1,7 +1,5 @@
 
-## Hi there :) My name is Isabella O'Rear
-
-## I'm an IT Major w/concentration in Cybersecurity
+## Hi there :) 
 -----------------------------------------
 
 * 🌍  I'm based in Florence, Alabama
