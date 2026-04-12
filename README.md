@@ -2,8 +2,10 @@
 ## Hi there :) 
 -----------------------------------------
 
-* 🌍  I'm based in Florence, Alabama
-* ✉️  You can contact me at [isabella.orear31@gmail.com](mailto:isabella.orear31@gmail.com)
+
+
+
+### Programming Languages
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
