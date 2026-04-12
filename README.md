@@ -1,8 +1,8 @@
-## Hi there 👋
-Hi 👋 My name is Isabella O'Rear
+## Hi there :)
+My name is Isabella O'Rear
 ================================
 
-IT Major w/concentration in Cybersecurity
+I'm an IT Major w/concentration in Cybersecurity
 -----------------------------------------
 
 * 🌍  I'm based in Florence, Alabama
@@ -16,7 +16,7 @@ IT Major w/concentration in Cybersecurity
 
 <p align="left"> <a href="https://www.github.com/isabellaorear31-design" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
-## 🎮 Featured Project: Final Girl Horror Trivia
+## 🎮 Game Project: Final Girl Horror Trivia
 
 ![Game Screenshot](images/game-thumb.png)
 
