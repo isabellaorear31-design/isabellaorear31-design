@@ -38,8 +38,6 @@
 
 ---
 
----
-
 ## 📚 Project: BookNook
 ![BookNook Screenshot](images/book-thumb.png)
 
