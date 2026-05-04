@@ -32,8 +32,6 @@
 * [🚀 Play the Game](https://isabellaorear31-design.github.io/horror-trivia/)
 * [📂 Source Code](https://github.com/isabellaorear31-design/horror-trivia)
 
-### 🛠️ Profile Tools
-[Nu HTML Validator](https://validator.w3.org/nu/?doc=https://isabellaorear31-design.github.io/isabellaorear31-design/) | [WAVE Accessibility](https://wave.webaim.org/report#/https://isabellaorear31-design.github.io/isabellaorear31-design/)
 
 ---
 
