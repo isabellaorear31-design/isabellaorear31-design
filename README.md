@@ -23,16 +23,15 @@
 
 ### Projects: 
 
-## 🎮 Game Project: Final Girl Horror Trivia
+## 🎮 Game Project: Final Girl Horror Trivia Revised
 
 ![Game Screenshot](images/game-thumb.png)
 
-**A high-stakes trivia game built with HTML5, Bootstrap 5, and JavaScript.**
+**A high-stakes horror trivia game where you must outsmart a slasher to survive the night.**
 
 * [🚀 Play the Game](https://isabellaorear31-design.github.io/horror-trivia/)
 * [📂 Source Code](https://github.com/isabellaorear31-design/horror-trivia)
 
----
 ### 🛠️ Profile Tools
 [Nu HTML Validator](https://validator.w3.org/nu/?doc=https://isabellaorear31-design.github.io/isabellaorear31-design/) | [WAVE Accessibility](https://wave.webaim.org/report#/https://isabellaorear31-design.github.io/isabellaorear31-design/)
 
