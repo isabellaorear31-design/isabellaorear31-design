@@ -23,7 +23,7 @@
 
 ### Projects: 
 
-## 🎮 Game Project: Final Girl Horror Trivia Revised
+## 🎮 Game Project: Final Girl Horror Trivia (Revised)
 
 ![Game Screenshot](images/game-thumb.png)
 
