@@ -10,14 +10,14 @@ I love blending **digital forensics** with creative **web design**.
 
 ### ˚୨୧⋆｡˚ 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈 ˚୨୧⋆｡˚
 
-#### 🌿 Final Girl Horror Trivia
+#### 🌿 Final Girl 
 *A high-stakes horror trivia game.*
 
 <img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/game-thumb.png?raw=true" width="500" style="border-radius: 20px; border: 3px solid #2F4F4F;" />
 
 [✨ Launch App](https://isabellaorear31-design.github.io/horror-trivia/) • [📂 Source Code](https://github.com/isabellaorear31-design/horror-trivia)
 
-#### 🌿 Project: BookNook
+#### 🌿 BookNook
 *A romance-focused book discovery app.*
 
 <img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/book-thumb.png?raw=true" width="500" style="border-radius: 20px; border: 3px solid #2F4F4F;" />
