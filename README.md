@@ -15,7 +15,7 @@ I love blending **digital forensics** with creative **web design**.
 
 <img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/game-thumb.png?raw=true" width="500" style="border-radius: 20px; border: 3px solid #2F4F4F;" />
 
-[✨ Launch App](https://isabellaorear31-design.github.io/booknook-app/) • [📂 Source Code](https://github.com/isabellaorear31-design/booknook-app)
+[✨ Launch App](https://isabellaorear31-design.github.io/horror-trivia/) • [📂 Source Code](https://github.com/isabellaorear31-design/horror-trivia)
 
 #### 🌿 Project: BookNook
 *A romance-focused book discovery app.*
