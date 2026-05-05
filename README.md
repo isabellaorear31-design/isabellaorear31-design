@@ -1,9 +1,21 @@
-
+<style>
+  body {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    font-family: serif;
+    background-color: #fffafb; /* Very light pink tint */
+    color: #4a4a4a;
+  }
+  img { border-radius: 15px; }
+  h1, h3, h4 { color: #d4a5a5; }
+</style>
 
 <div align="center">
 
 # *𝒾𝓈𝒶𝒷𝑒𝓁𝓁𝒶 𝑜'𝓇𝑒𝒶r*
 
+<img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/cute-border.png?raw=true" width="500" />
 
 <p>
   <img src="https://img.shields.io/badge/UNA_STUDENT-FFD1DC?style=for-the-badge&logoColor=white" /> 
@@ -12,7 +24,7 @@
 
 ─── ⋆⋅☆⋅⋆ ───
 
-### ˚୨୧⋆｡˚𝒶𝒷𝑜𝓊𝓉 𝓂𝑒 ˚୨୧⋆｡˚
+### ˚୨୧⋆｡˚ 𝒶𝒷𝑜𝓊𝓉 𝓂𝑒 ˚୨୧⋆｡˚
 I’m a student at **UNA** majoring in IT. <br>
 I love blending **digital forensics** with creative **web design**.
 
@@ -37,24 +49,34 @@ I love blending **digital forensics** with creative **web design**.
 
 ### ˚୨୧⋆｡˚ 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈 ˚୨୧⋆｡˚
 
-#### 🌿 Final Girl Horror Trivia
-*A high-stakes horror trivia game.*
-<br>
-<img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/game-thumb.png?raw=true" width="500" style="border-radius: 20px; border: 3px solid #8B0000;" />
-<br>
-[✨ Play Game](https://isabellaorear31-design.github.io/horror-trivia/) • [📂 Source Code](https://github.com/isabellaorear31-design/horror-trivia)
+</div>
 
-<br>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/book-thumb.png?raw=true" width="100%" style="border: 3px solid #8B0000;" />
+    </td>
+    <td width="50%" align="center">
+      <h4>🌿 Final Girl Horror Trivia</h4>
+      <p><i>A high-stakes horror trivia game.</i></p>
+      <a href="https://isabellaorear31-design.github.io/horror-trivia/">✨ Play Game</a> • 
+      <a href="https://github.com/isabellaorear31-design/horror-trivia">📂 Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h4>🌿 Project: BookNook</h4>
+      <p><i>A romance-focused book discovery app.</i></p>
+      <a href="https://isabellaorear31-design.github.io/booknook-app/">✨ Launch App</a> • 
+      <a href="https://github.com/isabellaorear31-design/booknook-app">📂 Source</a>
+    </td>
+    <td width="50%">
+      <img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/book-thumb.png?raw=true" width="100%" style="border: 3px solid #2F4F4F;" />
+    </td>
+  </tr>
+</table>
 
+<div align="center">
+<br>
 ─── ⋆⋅☆⋅⋆ ───
-
-#### 🌿 Project: BookNook
-*A romance-focused book discovery app.*
-<br>
-<img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/book-thumb.png?raw=true" width="500" style="border-radius: 20px; border: 3px solid #2F4F4F;" />
-<br>
-[✨ Launch App](https://isabellaorear31-design.github.io/booknook-app/) • [📂 Source Code](https://github.com/isabellaorear31-design/booknook-app)
-
-─── ⋆⋅☆⋅⋆ ───
-
 </div>
