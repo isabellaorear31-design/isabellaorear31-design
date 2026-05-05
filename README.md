@@ -1,9 +1,7 @@
 
 ## Hi there :) 
 
-
-
-
+I'm a student at UNA, majoring in IT with a concentration in cybersecurity. I have strong interests in both web development and digital forensics.
 
 ### Programming Languages:
 
