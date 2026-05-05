@@ -32,6 +32,6 @@ I love blending **digital forensics** with creative **web design**.
 <a href="https://github.com/isabellaorear31-design">
   <img src="https://img.shields.io/badge/GITHUB-FFB6C1?style=flat-square&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/isabella-orear-37593b335/">
+<a href="https://www.linkedin.com/in/orearisabella/">
   <img src="https://img.shields.io/badge/LINKEDIN-FFB6C1?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
