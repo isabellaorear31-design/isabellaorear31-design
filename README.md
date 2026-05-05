@@ -1,17 +1,4 @@
-<style>
 
-  body {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    line-height: 1.6;
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-    margin: 10px 0;
-  }
-</style>
 
 <div align="center">
 
