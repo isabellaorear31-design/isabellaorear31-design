@@ -1,5 +1,5 @@
 <style>
-  /* This centers your content and fixes the spacing on the deployed site */
+
   body {
     max-width: 800px;
     margin: 0 auto;
@@ -17,7 +17,6 @@
 
 # *𝒾𝓈𝒶𝒷𝑒𝓁𝓁𝒶 𝑜'𝓇𝑒𝒶r*
 
-<img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/cute-border.png?raw=true" width="100" />
 
 <p>
   <img src="https://img.shields.io/badge/UNA_STUDENT-FFD1DC?style=for-the-badge&logoColor=white" /> 
