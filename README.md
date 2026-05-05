@@ -1,53 +1,49 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ribbon.png" width="35" /> Hi there, I'm Isabella! 
+# 𝓘𝓼𝓪𝓫𝓮𝓵𝓵𝓪'𝓼 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸 🎀
 
 <p align="left">
-  <img src="https://img.shields.io/badge/UNA_Student-FFC0CB?style=for-the-badge&logo=unacademy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-DB7093?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNA_STUDENT-FFC0CB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-FFD1DC?style=for-the-badge&logoColor=white" />
 </p>
 
-> ✨ I’m a student at **UNA**, majoring in IT with a concentration in **Cybersecurity**. I love blending the technical side of digital forensics with the creative side of web development. 🌸
+> ✨ 𝓢𝓽𝓾𝓭𝓮𝓷𝓽 @ **𝓤𝓝𝓐** | 𝓘𝓣 & 𝓒𝔂𝓫𝓮𝓻𝓼𝓮𝓬𝓾𝓻𝓲𝓽𝔂. 𝓑𝓵𝓮𝓷𝓭𝓲𝓷𝓰 𝓭𝓲𝓰𝓲𝓽𝓪𝓵 𝓯𝓸𝓻𝓮𝓷𝓼𝓲𝓬𝓼 𝔀𝓲𝓽𝓱 𝓬𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝔀𝓮𝓿 𝓭𝓮𝓿. 🌸
 
 ---
 
-### 🎀 Programming Languages:
+### 🎀 𝓢𝓴𝓲𝓵𝓵𝓼 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-F4C2C2?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-F4C2C2?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
-### 💌 Let's Connect:
+### 💌 𝓛𝓮𝓽'𝓼 𝓒𝓸𝓷𝓷𝓮𝓬𝓽
 <p align="left">
 <a href="https://github.com/isabellaorear31-design">
-  <img src="https://img.shields.io/badge/GitHub-F4C2C2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-FF91A4?style=flat-square&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF91A4?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/isabella-orear-37593b335/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FF91A4?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
 ---
 
-## 🎨 My Projects
+### 🎨 𝓜𝔂 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
 
-### 🎮 Game Project: Final Girl Horror Trivia (Revised)
-![Game Screenshot](https://isabellaorear31-design.github.io/isabellaorear31-design/assets/images/trivia-screenshot.png) 
-*A high-stakes horror trivia game where you must outsmart a slasher to survive the night.*
-- [🚀 Play the Game](https://isabellaorear31-design.github.io/horror-trivia/)
-- [📂 Source Code](https://github.com/isabellaorear31-design/horror-trivia)
+#### 🎮 𝓕𝓲𝓷𝓪𝓵 𝓖𝓲𝓻𝓵 𝓗𝓸𝓻𝓻𝓸𝓻 𝓣𝓻𝓲𝓿𝓲𝓪
+<img src="https://isabellaorear31-design.github.io/isabellaorear31-design/assets/images/trivia-screenshot.png" width="400" style="border-radius:10px;" />
 
-### 📚 Project: BookNook
-![BookNook Screenshot](https://isabellaorear31-design.github.io/isabellaorear31-design/assets/images/booknook-screenshot.png)
-*A romance-focused book discovery and tracking app inspired by Goodreads.*
-- [🚀 Launch App](https://isabellaorear31-design.github.io/booknook-app/)
-- [📂 Source Code](https://github.com/isabellaorear31-design/booknook-app)
+* [🚀 𝓟𝓵𝓪𝔂 𝓖𝓪𝓶𝓮](https://isabellaorear31-design.github.io/horror-trivia/)
+* [📂 𝓢𝓸𝓾𝓻𝓬𝓮 𝓒𝓸𝓭𝓮](https://github.com/isabellaorear31-design/horror-trivia)
+
+#### 📚 𝓟𝓻𝓸𝓳𝓮𝓬𝓽: 𝓑𝓸𝓸𝓓𝓸𝓸𝓴
+<img src="https://isabellaorear31-design.github.io/isabellaorear31-design/assets/images/booknook-screenshot.png" width="400" style="border-radius:10px;" />
+
+* [🚀 𝓛𝓪𝓾𝓷𝓬𝓱 𝓐𝓹𝓹](https://isabellaorear31-design.github.io/booknook-app/)
+* [📂 𝓢𝓸𝓾𝓻𝓬𝓮 𝓒𝓸𝓭𝓮](https://github.com/isabellaorear31-design/booknook-app)
 
 ---
 
-### 💘 Coding Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabellaorear31-design&show_icons=true&theme=rose&hide_border=true&title_color=db7093&icon_color=db7093" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Icons/Sparkles.png" width="50" />
+### 💘 𝓒𝓸𝓭𝓲𝓷𝓰 𝓢𝓽𝓪𝓽𝓼
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=isabellaorear31-design&show_icons=true&theme=rose&hide_border=true&title_color=db7093&icon_color=db7093" width="380" />
 </p>
