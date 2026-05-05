@@ -2,6 +2,8 @@
 
 # *𝒾𝓈𝒶𝒷𝑒𝓁𝓁𝒶 𝑜'𝓇𝑒𝒶𝓇*
 
+<img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/cute-border.png?raw=true" width="500" />
+
 <img src="https://img.shields.io/badge/UNA_STUDENT-FFD1DC?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/CYBERSECURITY-FFC0CB?style=for-the-badge&logoColor=white" />
 
 ─── ⋆⋅☆⋅⋆ ───
@@ -29,9 +31,9 @@ I love blending **digital forensics** with creative **web design**.
 #### 🌿 Final Girl Horror Trivia
 *A high-stakes horror trivia game.*
 <br>
-<img src="https://isabellaorear31-design.github.io/isabellaorear31-design/assets/images/trivia-screenshot.png" width="500" style="border-radius: 20px; border: 3px solid #FFD1DC;" />
+<img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/book-thumb.png?raw=true" width="500" style="border-radius: 20px; border: 3px solid #8B0000;" />
 <br>
-[✨ Play Game](https://isabellaorear31-design.github.io/horror-trivia/) • [📂 Source Code](https://github.com/isabellaorear31-design/horror-trivia)
+[✨ Play Game](https://isabellaorear31-design.github.io/horror-trivia/) • [📂 Source Code](https://github.com/isabellaorear31-design/horror-trivia)]
 
 <br>
 
@@ -40,7 +42,7 @@ I love blending **digital forensics** with creative **web design**.
 #### 🌿 Project: BookNook
 *A romance-focused book discovery app.*
 <br>
-<img src="https://isabellaorear31-design.github.io/isabellaorear31-design/assets/images/booknook-screenshot.png" width="500" style="border-radius: 20px; border: 3px solid #FFD1DC;" />
+<img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/book-thumb.png?raw=true" width="500" style="border-radius: 20px; border: 3px solid #2F4F4F;" />
 <br>
 [✨ Launch App](https://isabellaorear31-design.github.io/booknook-app/) • [📂 Source Code](https://github.com/isabellaorear31-design/booknook-app)
 
