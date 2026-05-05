@@ -1,38 +1,41 @@
-<div style="background-image: url('https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/background.png?raw=true'); background-size: cover; padding: 40px; border-radius: 30px;">
+#  *𝒾𝓈𝒶𝒷𝑒𝓁𝓁𝒶 𝑜'𝓇𝑒𝒶r*
 
-<h1 align="center">👋 Hi, I'm Isabella O'Rear</h1>
-<p align="center"><strong>IT student at the University of North Alabama</strong></p>
+─── ⋆⋅☆⋅⋆ ───
 
-<hr>
+### ˚୨୧⋆｡˚ 𝒶𝒷𝑜𝓊𝓉 𝓂𝑒 ˚୨୧⋆｡˚
+I’m a student at **UNA** majoring in IT. <br>
+I love blending **digital forensics** with creative **web design**.
 
-<h3 align="center">🩸 Final Girl: Horror Trivia</h3>
-<p align="center"><em>A high-stakes horror trivia game.</em></p>
-<p align="center">
-  <img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/book-thumb.png?raw=true" width="450" style="border-radius: 20px; border: 5px solid #FFD1DC;" />
-</p>
-<p align="center">
-  <a href="https://isabellaorear31-design.github.io/horror-trivia/">✨ Play Game</a> • 
-  <a href="https://github.com/isabellaorear31-design/horror-trivia">📂 Source Code</a> •
-  <a href="http://34.42.119.145/">🌐 Production</a>
-</p>
+─── ⋆⋅☆⋅⋆ ───
+
+### ˚୨୧⋆｡˚ 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈 ˚୨୧⋆｡˚
+
+#### 🌿 Final Girl Horror Trivia
+*A high-stakes horror trivia game.*
+
+<img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/game-thumb.png?raw=true" width="500" style="border-radius: 20px; border: 3px solid #2F4F4F;"
+
+[✨ Launch App](https://isabellaorear31-design.github.io/booknook-app/) • [📂 Source Code](https://github.com/isabellaorear31-design/booknook-app)
+
+
+#### 🌿 Project: BookNook
+*A romance-focused book discovery app.*
+
+<img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/book-thumb.png?raw=true" width="500" style="border-radius: 20px; border: 3px solid #2F4F4F;" />
+
+[✨ Launch App](https://isabellaorear31-design.github.io/booknook-app/) • [📂 Source Code](https://github.com/isabellaorear31-design/booknook-app)
 
 <br>
 
-<h3 align="center">📚 The Book Project</h3>
-<p align="center">
-  <img src="https://github.com/isabellaorear31-design/isabellaorear31-design/blob/main/images/book-thumb.png?raw=true" width="450" style="border-radius: 20px; border: 5px solid #FFD1DC;" />
-</p>
-<p align="center">
-  <a href="https://isabellaorear31-design.github.io/book-project/">📖 View Project</a> • 
-  <a href="https://github.com/isabellaorear31-design/book-project">📂 Source Code</a>
-</p>
 
-<hr>
+─── ⋆⋅☆⋅⋆ ───
 
-<h3 align="center">🔗 Connect</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/isabella-orear">LinkedIn</a> • 
-  <a href="https://github.com/isabellaorear31-design">GitHub</a>
-</p>
-
-</div>
+### ### ୨୧⋆｡˚ 𝓈𝓀𝒾𝓁𝓁𝓈 & 𝓈𝑜𝒸𝒾𝒶𝓁𝓈 ˚୨୧⋆｡˚
+  <img src="https://img.shields.io/badge/PYTHON-F4C2C2?style=flat-square&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JAVA-F4C2C2?style=flat-square&logo=openjdk&logoColor=white" />
+<a href="https://github.com/isabellaorear31-design">
+  <img src="https://img.shields.io/badge/GITHUB-FFB6C1?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/isabella-orear-37593b335/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FFB6C1?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
